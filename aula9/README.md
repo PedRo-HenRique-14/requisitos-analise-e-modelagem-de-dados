@@ -1,5 +1,4 @@
 # Diagrama de Casos de Uso
----
 ### Atores podem ser:
 - Humanos;
 - Máquinas;
